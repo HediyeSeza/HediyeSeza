@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hi there👋,I'm Hed_seza</h1>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+</div>
+- 🌱 I’m currently learning *c# Development*
 
-<!--
-**HediyeSeza/HediyeSeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about *Anything*
 
-Here are some ideas to get you started:
+- 📫 How to reach me *hediyeseza@outlook.com*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact *I love coding👩🏻‍💻 and photography📷*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hed_seza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hed_seza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hediye-seza-387b491a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hediye-seza-387b491a2/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19051290/hediye-seza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19051290/hediye-seza" height="30" width="40" /></a>
+<a href="https://discord.gg/hediye#7534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hediye#7534" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
