@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there👋,I'm Hed_seza</h1>
+  <h1 align="center">Hi there👋,I'm Hediye_sezavaran</h1>
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </div>
 - 🌱 I’m currently learning *c# Development*
