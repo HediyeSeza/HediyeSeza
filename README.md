@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi there 👋, I'm Hediye Sezavaran
-
-<img src="[https://lottie.host/2605f5d2-2acf-4311-9b2c-2beb3de40bf2/GCR2Esxqu5.lottie](https://lottie.host/embed/2605f5d2-2acf-4311-9b2c-2beb3de40bf2/GCR2Esxqu5.lottie)" width="500"/>
+ <img src="./assets/coding.svg" width="450">
 
 ### 💻 Full Stack Developer | .NET Developer
 
