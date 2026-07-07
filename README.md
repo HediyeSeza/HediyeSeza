@@ -2,13 +2,15 @@
   <h1 align="center">Hi there👋,I'm Hediye_sezavaran</h1>
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 </div>
-- 🌱 I’m currently learning *c# Development*
+👩‍💻 About Me
 
-- 💬 Ask me about *Anything*
+💙 Passionate about software development and problem solving.
 
-- 📫 How to reach me *hediyeseza@outlook.com*
+🌱 Currently learning Advanced C#, ASP.NET, and improving my Frontend Development skills.
 
-- ⚡ Fun fact *I love coding👩🏻‍💻 and photography📷*
+🎯 Interested in building clean, modern and user-friendly applications.
+
+📷 Besides coding, I enjoy photography and UI/UX design.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
