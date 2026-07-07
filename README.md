@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Hediye Sezavaran
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
+<img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif](https://lottie.host/2605f5d2-2acf-4311-9b2c-2beb3de40bf2/GCR2Esxqu5.lottie)" width="500"/>
 
 ### 💻 Full Stack Developer | .NET Developer
 
