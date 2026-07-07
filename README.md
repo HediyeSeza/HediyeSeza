@@ -35,15 +35,18 @@ Passionate about building modern applications and always learning new technologi
 
 <div align="center">
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
-📧 **Email:** **sezahedi13@gmail.com**
+<p align="center">
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/hediye-sezavaran/
+<a href="mailto:sezahedi13@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-💬 Ask me about **C#, .NET, Python, HTML, CSS, JavaScript, UI/UX**
+<a href="https://www.linkedin.com/in/hediye-sezavaran/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-⚡ **Fun Fact:** I love coding 💻, photography 📸, and turning ideas into real-world projects.
+</p>
 
 </div>
